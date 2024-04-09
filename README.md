@@ -5,6 +5,7 @@ I'm **K1** [.](https://discord.com/app)
 - JavaScript [ Node.JS / Discord.JS]
 - HTML / CSS
 - Python
+- Java
 <div style="display: inline_block"><br>
   <img align="center" alt="K1-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <!--
