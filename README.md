@@ -2,7 +2,7 @@
 <!--
 I'm **K1** [.](https://discord.com/app)
 -->
-- JavaScript [ Node.JS / Discord.JS]
+- Javascript [Node.JS / Discord.JS]
 - HTML / CSS
 - Python
 - Java
