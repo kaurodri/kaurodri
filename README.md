@@ -42,4 +42,6 @@ I'm **K1** [.](https://discord.com/app)
 
 ### Repositórios
 [![RepositoryJS](https://skillicons.dev/icons?i=js&theme=light)](https://github.com/kaurodri/RepositoryJS)
-[![RepositoryC](https://skillicons.dev/icons?i=c&theme=light)](https://github.com/kaurodri/RepositoryC)
+<!--
+  [![RepositoryC](https://skillicons.dev/icons?i=c&theme=light)](https://github.com/kaurodri/RepositoryC)
+-->
