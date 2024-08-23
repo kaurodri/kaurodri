@@ -1,7 +1,4 @@
 ## <\/a1lpha>
-<!--
-I'm **K1** [.](https://discord.com/app)
--->
 - Javascript [Node.JS / Discord.JS]
 - HTML / CSS
 - Python
