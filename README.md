@@ -1,4 +1,4 @@
-## <\/a1lpha>
+## <\/kaurodri>
 - Javascript [Node.JS / Discord.JS]
 - HTML / CSS
 - Python
