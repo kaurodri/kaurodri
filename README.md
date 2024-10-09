@@ -1,5 +1,5 @@
 ## <\/kaurodri>
-- Desenvolvimento Web: [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript), HTML/CSS
+- Desenvolvimento Web: [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript), [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)/[CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 - Desenvolvimento de Software: Python, Java, C
 
 <div style="display: inline_block"><br>
