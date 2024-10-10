@@ -1,7 +1,7 @@
 ## <\/kaurodri>
 ###### - [Portfólio](https://kaurodri.github.io/CodeCatalog/) [ 📄 Minhas experiências profissionais, Acadêmicas e Formações Complementares. ]
-###### - [PricingMonitoramento](https://github.com/kaurodri/PricingMonitoramento) [ 📊 Pipeline ETL Python - Web Scraping (Scrapy) | Pandas | Streamlit ]
 ###### - [MediadorFalta](https://kaurodri.github.io/MediadorFalta/) [ 🧮 Auxilia na Contagem de Faltas | NodeJS ]
+###### - [PricingMonitoramento](https://github.com/kaurodri/PricingMonitoramento) [ 📊 Pipeline ETL Python - Web Scraping (Scrapy) | Pandas | Streamlit ]
 ##
 <div style="display: inline_block"><br>
   <img align="center" alt="K1-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
