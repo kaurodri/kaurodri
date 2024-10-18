@@ -1,6 +1,6 @@
 ## <\/kaurodri>
 ###### - [Portfólio](https://kaurodri.github.io/CodeCatalog/) [ 📄 Minhas experiências profissionais, Acadêmicas e Formações Complementares. ]
-###### - [MediadorFalta](https://github.com/kaurodri/MediadorFalta) [ 🧮 Auxilia na Contagem de Faltas | NodeJS ]
+###### - [MediadorFalta](https://github.com/kaurodri/MediadorFalta) [ 🧮 Auxilia na Contagem de Faltas | Javascript ]
 ###### - [PricingMonitoramento](https://github.com/kaurodri/PricingMonitoramento) [ 📊 Pipeline ETL Python - Web Scraping (Scrapy) | Pandas | Streamlit ]
 ##
 <div style="display: inline_block"><br>
