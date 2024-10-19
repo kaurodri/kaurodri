@@ -40,3 +40,16 @@
 <!--
   [![RepositoryC](https://skillicons.dev/icons?i=c&theme=light)](https://github.com/kaurodri/RepositoryC)
 -->
+
+-------
+
+<div style="margin-top: 20px">
+    <div style="display: flex;">
+        <a href="https://kaurodri.github.io/CodeCatalog/" target="_blank"><img style="width: 200px; border-radius: 10px;" src="img/codecatalog.png" target="_blank"></a>
+        <p style="margin-left: 10px"> - <a href="https://kaurodri.github.io/CodeCatalog/">Portfólio</a> [ 📄 Minhas experiências profissionais, Acadêmicas e Formações Complementares. ]</p>
+    </div>
+    <div style="display: flex; margin-top: 10px">
+        <a href="https://github.com/kaurodri/MediadorFalta" target="_blank"><img style="width: 200px; border-radius: 10px;" src="img/mediadorfalta.png" target="_blank"></a>
+        <p style="margin-left: 10px"> - <a href="https://github.com/kaurodri/MediadorFalta">MediadorFalta</a> [ 🧮 Auxilia na Contagem de Faltas | Javascript ]</p>
+    </div>
+</div>
