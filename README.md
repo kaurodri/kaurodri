@@ -42,7 +42,7 @@
 
 ## -->
 
-### PROJETOS
+<!-- ### PROJETOS -->
 
 <!-- <div style="margin-top: 20px">
     <div style="display: flex;">
@@ -55,8 +55,8 @@
     </div>
 </div> -->
 
-<div style="margin-top: 20px">
+<!-- <div style="margin-top: 20px">
     <div>
         <a href="https://kaurodri.github.io/CodeCatalog/" target="_blank"><img style="width: 400px" src="img/box/codecatalog.png" target="_blank"></a>
     </div>
-</div>
+</div> -->
