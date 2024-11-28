@@ -18,8 +18,8 @@
 
 ##
 
-<div  style="display: flex; justify-content: center;">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=kaurodri&theme=blue-navy&hide_border=true&border_radius=8&locale=pt_BR&card_width=760&card_height=200">
+<div>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=kaurodri&theme=blue-navy&hide_border=true&border_radius=8&locale=pt_BR&card_width=900&card_height=200">
 </div>  
 
  <!-- <img align="right" alt="K1-pic" height="150" style="border-radius:50px;" src="https://static-00.iconduck.com/assets.00/github-icon-2048x1988-jzvzcf2t.png"> -->
