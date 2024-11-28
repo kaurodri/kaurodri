@@ -18,22 +18,25 @@
   
   ##
 
- <img align="right" alt="K1-pic" height="150" style="border-radius:50px;" src="https://static-00.iconduck.com/assets.00/github-icon-2048x1988-jzvzcf2t.png">
-<div> 
-  <!--
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kaurodri&theme=blue-navy&hide_border=true&border_radius=8&locale=pt_BR&card_width=760&card_height=200)](https://github.com/kaurodri)
+
+ <!-- <img align="right" alt="K1-pic" height="150" style="border-radius:50px;" src="https://static-00.iconduck.com/assets.00/github-icon-2048x1988-jzvzcf2t.png"> -->
+
+<!-- <div> 
+
     <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  -->
+
   <a href="https://instagram.com/kaurodri" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <!--
+
  	 <a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  -->
+
   <a href = "mailto:engkauanrodrigues@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/kaurodri" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-</div>
-
--------
+</div> -->
+<!-- 
+------- -->
 
 <!-- ### Repositórios
 [![RepositoryJS](https://skillicons.dev/icons?i=js&theme=light)](https://github.com/kaurodri/RepositoryJS)
