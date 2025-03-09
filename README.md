@@ -24,12 +24,12 @@
   <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 </div>
-
+<!-- 
 ##
 
 <div>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=kaurodri&theme=blue-navy&hide_border=true&border_radius=8&locale=pt_BR&card_width=900&card_height=200">
-</div>  
+</div>   -->
 
  <!-- <img align="right" alt="K1-pic" height="150" style="border-radius:50px;" src="https://static-00.iconduck.com/assets.00/github-icon-2048x1988-jzvzcf2t.png"> -->
 
