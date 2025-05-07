@@ -17,21 +17,21 @@
 
 <div>
   <br>
-  <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
-  <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img height="30" width="40" src="img/devicon/javascript-plain.svg">
+  <img height="30" width="40" src="img/devicon/typescript-original.svg">
+  <img height="30" width="40" src="img/devicon/react-original.svg">
+  <img height="30" width="40" src="img/devicon/nextjs-original.svg">
+  <img height="30" width="40" src="img/devicon/nodejs-original.svg">
+  <img height="30" width="40" src="img/devicon/python-original.svg">
+  <img height="30" width="40" src="img/devicon/c-original.svg">
+  <img height="30" width="40" src="img/devicon/csharp-original.svg">
 </div>
-<!-- 
-##
 
+<!-- 
 <div>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=kaurodri&theme=blue-navy&hide_border=true&border_radius=8&locale=pt_BR&card_width=900&card_height=200">
-</div>   -->
+</div>
+-->
 
  <!-- <img align="right" alt="K1-pic" height="150" style="border-radius:50px;" src="https://static-00.iconduck.com/assets.00/github-icon-2048x1988-jzvzcf2t.png"> -->
 
