@@ -1,4 +1,5 @@
 ## <\/kaurodri>
+###### -[ Página de Links](https://kauan.dev.br/) [ 📍 Página única que reúne todos os meus links importantes ]
 ###### - [Portfólio](https://kaurodri.github.io/CodeCatalog/) [ 📄 Minhas experiências profissionais, Acadêmicas e Formações Complementares. ]
 ###### - [MediadorFalta](https://github.com/kaurodri/MediadorFalta) [ 🧮 Auxilia na Contagem de Faltas | Javascript ]
 ###### - [PricingMonitoramento](https://github.com/kaurodri/PricingMonitoramento) [ 📊 Pipeline ETL Python - Web Scraping (Scrapy) | Pandas | Streamlit ]
