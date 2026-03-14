@@ -18,6 +18,8 @@
 
 <div>
   <br>
+  <img height="30" width="40" src="img/devicon/java-original.svg">
+  <img height="30" width="40" src="img/devicon/spring-original.svg">
   <img height="30" width="40" src="img/devicon/javascript-plain.svg">
   <img height="30" width="40" src="img/devicon/typescript-original.svg">
   <img height="30" width="40" src="img/devicon/react-original.svg">
@@ -25,8 +27,11 @@
   <img height="30" width="40" src="img/devicon/nodejs-original.svg">
   <img height="30" width="40" src="img/devicon/python-original.svg">
   <img height="30" width="40" src="img/devicon/c-original.svg">
+  <img height="30" width="40" src="img/devicon/cplusplus-original.svg">
   <img height="30" width="40" src="img/devicon/csharp-original.svg">
 </div>
+
+<!-- Icons Aqui: https://devicon.dev/ -->
 
 <!-- 
 <div>
